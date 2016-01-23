@@ -7,12 +7,12 @@
 
 ???
 
-# Basic Git Quiz
-
 ?: Which of the following is the correct way to initialize a new Git repository?
 
 ( ) `git add .`
+
 (X) `git init`
+
 ( ) `git commit`
 
 ?: You can type git status at any point while in a git controlled directory to check the status of your files.
@@ -20,7 +20,7 @@
 (X) True
 ( ) False
 
-?: Which of the following commands will stage your entire directory and every non-empty directory inside your current directory?
+? Which of the following commands will stage your entire directory and every non-empty directory inside your current directory?
 
 ( ) `git status all`
 (X) `git add .`
@@ -58,12 +58,11 @@ How would you commit this with the message "adding new authors to index"?
 [X] `git commit -m 'cleanup syntax errors'`
 [X] `git commit -a -m 'added new benchmarks'`
 
-???
-
 ## More resources:
 
 * [Pro Git](http://git-scm.com/book/) - [1.1 Getting Started - About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 * [Pro Git](http://git-scm.com/book/) - [2.1 Git Basics - Getting a Git Repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository)
 * [Pro Git](http://git-scm.com/book/) - [2.2 Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Introduction to Git Commits](http://pcottle.github.io/learnGitBranching/)
+
 <a href='https://learn.co/lessons/demo-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
