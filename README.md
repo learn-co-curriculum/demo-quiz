@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Test your understanding of basic git repo commands
+1. Test understanding of basic git repo commands
 2. Review git concepts
 
 ???
