@@ -5,14 +5,17 @@
 1. Test understanding of basic git repo commands
 2. Review git concepts
  
+???
 
+# Title (still required for now :( )
 
 ?: Which of the following is the correct way to initialize a new Git repository?
+
 ( ) `git add .`
 (X) `git init`
 ( ) `git commit`
 
-? You can type git status at any point while in a git controlled directory to check the status of your files.
+?: You can type git status at any point while in a git controlled directory to check the status of your files.
 
 (X) True
 ( ) False
