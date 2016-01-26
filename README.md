@@ -14,7 +14,7 @@
 (X) `git init`
 ( ) `git commit`
 
-? You can type git status at any point while in a git controlled directory to check the status of your files.
+?: You can type git status at any point while in a git controlled directory to check the status of your files.
 
 (X) True
 ( ) False
@@ -55,17 +55,22 @@ git commit -m "adding new authors to index"
 ```
 
 ( )
+
 ```
 git add .
 git commit "adding new authors to index"
 ```
+
 ( ) `git commit .`
 
 ?: Below are several `git commit` commands. Some are valid, some aren't. Select the valid commands.
 
 [ ] `git commit all`
+
 [X] `git commit -am 'remove unused files'`
+
 [X] `git commit -m 'cleanup syntax errors'`
+
 [X] `git commit -a -m 'added new benchmarks'`
 
 ???
