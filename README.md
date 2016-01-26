@@ -10,6 +10,7 @@
 # Git Basics Quiz
 
 ?: Which of the following is the correct way to initialize a new Git repository?
+
 ( ) `git add .`
 (X) `git init`
 ( ) `git commit`
