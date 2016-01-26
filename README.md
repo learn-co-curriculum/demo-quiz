@@ -10,12 +10,11 @@
 # Git Basics Quiz
 
 ?: Which of the following is the correct way to initialize a new Git repository?
-
 ( ) `git add .`
 (X) `git init`
 ( ) `git commit`
 
-?: You can type git status at any point while in a git controlled directory to check the status of your files.
+? You can type git status at any point while in a git controlled directory to check the status of your files.
 
 (X) True
 ( ) False
@@ -23,12 +22,14 @@
 ?: Which of the following commands will stage your entire directory and every non-empty directory inside your current directory?
 
 ( ) `git status all`
+
 (X) `git add .`
+
 ( ) `git commit all`
 
 ?: We've just created a new file called `index.html`. Which of the following commands will stage this one file so we can commit it?
 
-(X) `git add index.html`
+(X)`git add index.html`
 ( ) `git add new`
 ( ) `git commit index.html`
 
@@ -37,18 +38,27 @@
 ```bash
 On branch master
 
-Initial commit
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
   new file:   index.html
 ```
 
 How would you commit this with the message "adding new authors to index"?
 
-(X) `git commit -m "adding new authors to index"`
-( ) `git commit "adding new authors to index"`
+(X)
+
+```
+git add .
+git commit -m "adding new authors to index"
+```
+
+( )
+```
+git add .
+git commit "adding new authors to index"
+```
 ( ) `git commit .`
 
 ?: Below are several `git commit` commands. Some are valid, some aren't. Select the valid commands.
