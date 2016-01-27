@@ -7,15 +7,14 @@
  
 ???
 
-# Title
+
 
 ?: Which of the following is the correct way to initialize a new Git repository?
-
 ( ) `git add .`
 (X) `git init`
 ( ) `git commit`
 
-?: You can type git status at any point while in a git controlled directory to check the status of your files.
+? You can type git status at any point while in a git controlled directory to check the status of your files.
 
 (x) True
 ( ) False
@@ -23,16 +22,12 @@
 ?: Which of the following commands will stage your entire directory and every non-empty directory inside your current directory?
 
 ( ) `git status all`
-(X) `git add .`
+( ) `git add .`
 ( ) `git commit all`
 
 ?: We've just created a new file called `index.html`. Which of the following commands will stage this one file so we can commit it?
 
-(x)`git add index.html`
-
-( ) `git add new`
-
-( ) `git commit index.html`
+(x)`git add index.html` ( ) `git add new` ( ) `git commit index.html`
 
 ?: When you run `git status`, it returns:
 
@@ -66,7 +61,13 @@ git commit "adding new authors to index"
 
 ?: Below are several `git commit` commands. Some are valid, some aren't. Select the valid commands.
 
-[ ] `git commit all` [X] `git commit -am 'remove unused files'` [X] `git commit -m 'cleanup syntax errors'` [X] `git commit -a -m 'added new benchmarks'`
+[ ] `git commit all`
+
+[X] `git commit -am 'remove unused files'`
+
+[X] `git commit -m 'cleanup syntax errors'`
+
+[X] `git commit -a -m 'added new benchmarks'`
 
 ???
 
