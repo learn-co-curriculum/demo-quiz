@@ -81,4 +81,4 @@ git commit "adding new authors to index"
 * [Pro Git](http://git-scm.com/book/) - [2.2 Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository)
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - [Introduction Sequence: Introduction to Git Commits](http://pcottle.github.io/learnGitBranching/)
 
-<a href='https://learn.co/lessons/demo-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/demo-quiz' title='Git Basics'>Git Basics</a> on Learn.co and start learning to code for free.</p>
